@@ -1,0 +1,445 @@
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.html-card{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    /* align-items: center; */
+    /* flex-direction: column; */
+    gap: 20px;    
+}
+.html-card h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.html-card a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.html-card img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
+
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+.classwork{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    gap: 20px;    
+}
+.classwork h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.classwork a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.classwork img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+.country{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    gap: 20px;    
+}
+.country h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.country a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.country img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+.bitcoin{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    gap: 20px;    
+}
+.bitcoin h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.bitcoin a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.bitcoin img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+.forex{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    gap: 20px;    
+}
+.forex h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.forex a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.forex img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+.Tinubu{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    gap: 20px;    
+}
+.Tinubu h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.Tinubu a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.Tinubu img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+.Bulubala{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    gap: 20px;    
+}
+.Bulubala h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.Bulubala a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.Bulubala img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+.Buhari{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    gap: 20px;    
+}
+.Buhari h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.Buhari a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.Buhari img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
+*{
+    padding: 0;
+    box-sizing: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(4, 4, 82);
+    padding: 20px; 
+    display: grid;
+    /* align-items: center; */
+    justify-content: center;
+}
+.Nwa{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    width: 300px;
+    display: grid;
+    gap: 20px;    
+}
+.Nwa h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+#location{
+    display: inline;
+}
+#location p{
+    font-size: 16px;
+    display: inline;
+}
+#location img{
+    height: 12px;
+    width:12px ;
+}
+#paragraph{
+    font-style: italic;
+    font-size: 20px;
+}
+.Nwa a{
+    color: black;
+    font-weight: 700;
+    display: block;
+}
+.Nwa img{
+    /* height: 120px; */
+    width: 300px;
+    border-radius: 16px;
+}
